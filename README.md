@@ -10,9 +10,9 @@
 
 ### Descrição do desafio:
 
-    O desafio terá como base um fluxo de negócio de um cliente DB1 que tem como principal negócio a distribuição e comercialização de combustíveis e lubrificantes. 
-    O problema que o cliente está enfrentando
-    é gerenciar os logs (auditoria) na 
+        O desafio terá como base um fluxo de negócio de um cliente DB1 que tem como 
+    principal negócio a distribuição e comercialização de combustíveis e lubrificantes. 
+        O problema que o cliente está enfrentando é gerenciar os logs (auditoria) na 
     alteração de detalhes dos seus produtos, recentemente o preço dos combustíveis. 
 
 ### Requisitos para realização do projeto:
@@ -32,5 +32,6 @@
 ## Tecnologia Utilizada
 
 <div style="display: inline_block"><br/>
+    <h3>Oracle SQL</h3>
     <img align="center" alt="Oracle SQL" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
